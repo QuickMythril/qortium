@@ -15,7 +15,7 @@
 		<bouncycastle.version>1.84</bouncycastle.version>
 		<build.timestamp>${maven.build.timestamp}</build.timestamp>
 		<ciyam-at.version>1b731d1</ciyam-at.version> <!-- QuickMythril/AT v1.4.3 fork point -->
-		<commons-net.version>3.9.0</commons-net.version>
+		<commons-net.version>3.13.0</commons-net.version>
 		<commons-text.version>1.12.0</commons-text.version>
 		<commons-io.version>2.18.0</commons-io.version>
 		<commons-compress.version>1.27.1</commons-compress.version>
